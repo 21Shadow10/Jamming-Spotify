@@ -1,5 +1,5 @@
 const clientId = "89b4411ef3db4bdcbaae3b8d2ce40236";
-const redirectUri = "http://localhost:3000";
+const redirectUri = "https://zen-minsky-968e2d.netlify.app/";
 
 let accessToken ;
 
